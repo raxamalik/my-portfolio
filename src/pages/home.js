@@ -4,7 +4,7 @@ import Layout from '../hoc/layout'
 const Home = () => {
   return (
     <div>
-      sdfsdfsdfsdfsd
+      
     </div>
   )
 }
